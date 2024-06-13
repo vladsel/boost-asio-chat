@@ -1,0 +1,7 @@
+ Hi im a new client
+ are you a server?
+yes
+how can I help you?
+ just checked you work
+ bye
+bye

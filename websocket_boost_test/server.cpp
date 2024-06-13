@@ -10,7 +10,6 @@ void Server::init_acceptor() {
     try {
         acceptor.open(boost::asio::ip::tcp::v4());
         acceptor.bind(boost::asio::ip::tcp::endpoint(boost::asio::ip::tcp::v4(), 4444));
-        //acceptor.bind(boost::asio::ip::tcp::endpoint(boost::asio::ip::make_address("192.168.31.11"), 4444));
         acceptor.listen();
     }
     catch (const std::exception &ex) {

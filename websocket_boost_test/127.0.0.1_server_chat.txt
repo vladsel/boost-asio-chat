@@ -1,82 +1,24 @@
- have problems with file
- its bad and sad okay
- anymore
- resource is bad
-yes
-something is not ok
-hello friend
- hi serv
-hi first
-hi second
-hi third
- hey man 
- cool
-heh
- hero
-hero
-hero
-111
-hoho
- ohoho
- heyehy
-yehyeh
-yohyoh
- 1111
-yay
- hay
- 1111
-hello
-hi
-hello
-hi
-omg
- her
-hor
-bon
- don
- haras
-kvas
- gem
-trem
-hi
- hi
-men
- men
- kiro
-myzlo
- neda byda
- lalal
- a
- podviz
- podviz
- q
- f
-da ny
- opat
-a
- a
- dfdsf
- fdsf
-orpew
-fgkdlg
- a
-i
-hello
- ok
-hello
- ok
- as
- d
-привіт мій друг
- як ти сьогодні ?
- привіт
-я взагалі пречудово
-ось відкрив свій старий проект
-дещо перевірив
-найс
- ну круто
- дуже круто
- радий за тебе
-ну добре
-бувай
- пока пока
+hi client
+what do you need
+ oh
+ hello serv
+ just running test
+oh yeah okay
+it works
+all right
+ yeah I see
+ excellent
+bye
+ goodbye
+ Привіт
+ Це знову я, клієнт
+ Вирішив до тебе перепідключитись
+О, чудово
+І що як працює
+ Виконано нормально, з'єднання є, все чудово
+О ну тоді круто
+Якщо ще щось можу зробити, то ти кажи
+все, бувай
+ Гаразд
+ Вдалого дня
+ !!!
